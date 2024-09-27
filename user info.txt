@@ -1,0 +1,27 @@
+{
+    "name": "hossein",
+    "username": "hosseleader2",
+    "email": "hosseleader2g@gmail.com",
+    "password": "12346789",
+    "confrimPassword":"12346789",
+    "phone": "092144339088"
+}
+ "accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY1MzJjOGM5NmYxYzQ3ZmIwZTE5YWYzNyIsImlhdCI6MTY5NzgyNzAxNywiZXhwIjoxNzAwNDE5MDE3fQ.Iltk_rdx9qNlGod0DbsF_9WQTam0YjOrri5yE0S9vl4"
+
+ 654a7be618e59ac651a35416
+
+
+ {
+    "user": {
+        "name": "mohamadReza",
+        "username": "mohamadRezaKING",
+        "email": "mohamadReza@gmail.com",
+        "phone": "093328923",
+        "role": "USER",
+        "_id": "655e4542cddd629d4a35d437",
+        "createdAt": "2023-11-22T18:15:30.228Z",
+        "updatedAt": "2023-11-22T18:15:30.228Z",
+        "__v": 0
+    },
+    "accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY1NWU0NTQyY2RkZDYyOWQ0YTM1ZDQzNyIsImlhdCI6MTcwMDY3NjkzMCwiZXhwIjoxNzAzMjY4OTMwfQ.8trzALxzfHc_Z9ArU2FIvP1GkVcMqj1B03EGRl4jYZE"
+}
